@@ -9,3 +9,6 @@
 - cp -> copy file
 - mv -> move/rename file
 - clear -> clear terminal
+- mkdir -> create directory
+- cat -> display file contents
+- nano -> edit file in terminal
