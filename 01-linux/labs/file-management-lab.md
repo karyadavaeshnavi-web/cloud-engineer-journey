@@ -64,7 +64,7 @@ Verified copied file using ls -l.
 
 ![Navigation and Delete](../screenshots/day2-navigation-delete.png)
 
-Practiced directory traversal using cd and cd ...
+Practiced directory traversal using cd and cd ..
 
 Encountered a navigation error and corrected it by moving to the parent directory.
 
