@@ -1,0 +1,42 @@
++------------------+
+|      User        |
++------------------+
+          |
+          v
++------------------+
+|    Terminal      |
++------------------+
+          |
+          v
++------------------+
+|      Shell       |
+|      Bash        |
++------------------+
+          |
+          v
++------------------+
+|      Kernel      |
+| CPU | Memory     |
+| Files | Devices  |
++------------------+
+          |
+          v
++------------------+
+|    Hardware      |
+| Disk | RAM | CPU |
++------------------+
+
+User:
+Interacts with the system.
+
+Terminal:
+Interface used to enter commands.
+
+Shell:
+Interprets commands and passes them to the kernel.
+
+Kernel:
+Core component of Linux that manages resources.
+
+Hardware:
+Physical components such as CPU, memory and storage.
