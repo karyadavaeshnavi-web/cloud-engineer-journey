@@ -168,19 +168,6 @@ chown vaeshnavi file.txt
 
 ---
 
-## Why Cloud Engineers Care
-
-Incorrect permissions can cause:
-
-* Application failures
-* Docker container issues
-* Kubernetes volume access problems
-* SSH authentication failures
-
-Understanding permissions is essential for managing Linux servers and cloud infrastructure.
-
----
-
 ## Summary
 
 * Every file has an Owner and Group.
