@@ -1,0 +1,17 @@
+                    Linux File
+
+                          │
+
+        ┌─────────────────┼─────────────────┐
+
+        │                 │                 │
+
+      Owner            Group            Others
+
+        │                 │                 │
+
+       rwx               r-x              r--
+
+        │                 │                 │
+
+ Read Write Execute   Read Execute      Read Only
