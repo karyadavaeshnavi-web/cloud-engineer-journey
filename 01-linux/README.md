@@ -15,6 +15,12 @@ This section documents my Linux learning journey as part of my Cloud Engineer ro
 * Linux Navigation
 * Linux File Management
 
+### Day 3
+
+* Linux Permissions and Ownership
+* Linux Permission Commands
+* Linux Permissions Lab
+
 ## Directory Structure
 
 ### notes
