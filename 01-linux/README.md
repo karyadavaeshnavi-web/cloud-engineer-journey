@@ -32,6 +32,26 @@ This section documents my Linux learning journey as part of my Cloud Engineer ro
 - top Command
 - kill Command
 
+## Day 5 - Linux Services and Logs
+
+Topics Covered:
+
+- Linux Services
+- systemd
+- systemctl
+- Service States
+- Start, Stop and Restart Services
+- Enable vs Start
+- Linux Logs
+- journalctl
+- /var/log Directory
+
+Lab:
+
+- Service Inspection
+- Log Exploration
+- journalctl Usage
+
 ## Directory Structure
 
 ### notes
