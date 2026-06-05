@@ -1,0 +1,22 @@
+Program
+   │
+   ▼
+Executed
+   │
+   ▼
+Process Created
+   │
+   ▼
+PID Assigned
+   │
+   ▼
+Running
+   │
+   ├── Sleeping
+   │
+   ├── Waiting
+   │
+   └── Running
+   │
+   ▼
+Terminated
