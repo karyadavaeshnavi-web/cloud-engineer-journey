@@ -21,6 +21,17 @@ This section documents my Linux learning journey as part of my Cloud Engineer ro
 * Linux Permission Commands
 * Linux Permissions Lab
 
+### Day 4
+
+- Linux Processes
+- Process IDs (PID)
+- Parent and Child Processes
+- Process Monitoring
+- ps Command
+- ps -ef Command
+- top Command
+- kill Command
+
 ## Directory Structure
 
 ### notes
