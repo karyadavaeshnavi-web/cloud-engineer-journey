@@ -124,7 +124,6 @@ These tools help administrators identify running processes, CPU usage, memory us
 
 ---
 
-## Why Cloud Engineers Care
 
 Processes are the foundation of applications and services.
 
