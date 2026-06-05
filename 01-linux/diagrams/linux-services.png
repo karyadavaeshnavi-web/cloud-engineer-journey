@@ -1,0 +1,20 @@
+                    User
+                      │
+                      ▼
+                 systemctl
+                      │
+                      ▼
+                   systemd
+                      │
+      ┌───────────────┼───────────────┐
+      │               │               │
+      ▼               ▼               ▼
+ cron.service    ssh.service    docker.service
+      │               │               │
+      └───────────────┼───────────────┘
+                      │
+                      ▼
+                 journalctl
+                      │
+                      ▼
+                   /var/log
