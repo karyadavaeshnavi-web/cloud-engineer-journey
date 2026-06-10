@@ -1,0 +1,71 @@
+┌───────────────────────────────────────────────┐
+│ LAYER 7 - APPLICATION                         │
+│ User-facing applications                      │
+│ Examples: Chrome, ChatGPT, YouTube, DNS       │
+│ Message: "Hello ChatGPT"                      │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 6 - PRESENTATION                        │
+│ Encrypts, compresses, formats data            │
+│ Example: SSL/TLS                              │
+│ Message: Encrypted "Hello ChatGPT"            │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 5 - SESSION                             │
+│ Creates and manages communication sessions    │
+│ Example: Login session                         │
+│ Message: Session ID + Encrypted Data          │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 4 - TRANSPORT                           │
+│ Reliable/Fast delivery using TCP or UDP       │
+│ Examples: TCP, UDP                            │
+│ Message: TCP Header + Session Data            │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 3 - NETWORK                             │
+│ Finds destination using IP addresses          │
+│ Examples: IPv4, Routers, Routing              │
+│ Message: IP Header + TCP Segment              │
+│ Result: Packet                                │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 2 - DATA LINK                           │
+│ Local delivery using MAC addresses            │
+│ Examples: Ethernet, Switches                  │
+│ Message: MAC Header + Packet                  │
+│ Result: Frame                                 │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ LAYER 1 - PHYSICAL                            │
+│ Converts data into signals                    │
+│ Examples: WiFi, Fiber, Ethernet Cable         │
+│ Message: 010101010101                         │
+│ Result: Bits                                  │
+└───────────────────────────────────────────────┘
+                     │
+                     ▼
+═══════════════════════════════════════════════════
+                 INTERNET
+═══════════════════════════════════════════════════
+                     │
+                     ▼
+┌───────────────────────────────────────────────┐
+│ RECEIVER SIDE                                 │
+│ Layer 1 → Layer 7                             │
+│ Removes headers one by one                    │
+│ Decrypts message                              │
+│ Delivers "Hello ChatGPT" to application       │
+└───────────────────────────────────────────────┘
