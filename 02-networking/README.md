@@ -24,6 +24,15 @@ This section covers foundational networking concepts required for Cloud Engineer
 * Data Decapsulation
 * Message Flow Through Networks
 
+### Day 10
+
+- TCP
+- UDP
+- ICMP
+- Ports
+- Ping
+- Network Diagnostics
+
 ---
 
 ## Commands Practiced
@@ -114,6 +123,11 @@ After completing this section, I can:
 * Explain all seven layers of the OSI model.
 * Identify which OSI layers are most relevant to Cloud Engineering.
 * Perform basic network troubleshooting using Linux commands.
+* Explain the difference between TCP and UDP.
+* Understand how ICMP is used for diagnostics.
+* Explain how the ping command works.
+* Identify common network ports.
+* Understand how applications communicate over a network.
 
 ---
 

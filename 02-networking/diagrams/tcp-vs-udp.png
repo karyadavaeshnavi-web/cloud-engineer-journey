@@ -1,0 +1,28 @@
+TCP
+
+Sender
+   ↓
+Packet 1
+Packet 2
+Packet 3
+   ↓
+Receiver
+
+Acknowledgement
+Resend Missing Packets
+Reliable Delivery
+
+
+UDP
+
+Sender
+   ↓
+Packet 1
+Packet 2
+Packet 3
+   ↓
+Receiver
+
+No Acknowledgement
+No Resend
+Fast Delivery
