@@ -70,4 +70,25 @@ Cloud monitoring systems use conditional statements to identify abnormal resourc
 
 Loops allow Cloud Engineers to automate repetitive operations such as monitoring servers, checking virtual machines, deploying resources, and processing logs across hundreds or thousands of systems.
 
+# Day 23 – Functions
 
+## Topics Covered
+
+- Functions
+- Parameters
+- Arguments
+- Return
+- Local Variables
+- Global Variables
+
+## Skills Learned
+
+- Create reusable code
+- Organize Python programs
+- Use parameters and arguments
+- Return values from functions
+- Build modular automation scripts
+
+## Real World Application
+
+Cloud Engineers build reusable automation by placing monitoring, deployment, and health-check logic inside functions that can be executed repeatedly across multiple servers.
