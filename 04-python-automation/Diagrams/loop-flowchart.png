@@ -1,0 +1,19 @@
+Start
+   │
+   ▼
+Read List
+   │
+   ▼
+Take First Item
+   │
+   ▼
+Process Item
+   │
+   ▼
+More Items?
+ ┌──┴──┐
+ │     │
+Yes    No
+ │      │
+ ▼      ▼
+Next   End
