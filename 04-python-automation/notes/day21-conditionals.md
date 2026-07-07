@@ -161,6 +161,10 @@ Useful when one decision depends on another.
 - if, elif and else create decision logic.
 - Logical operators combine multiple conditions.
 
+  # Reflection
+
+Today I learned how Python programs make decisions using conditional statements. I understood the difference between assigning values and comparing values, and how `if`, `elif`, and `else` enable automation scripts to respond differently based on system conditions. I also learned how logical operators can combine multiple conditions, making monitoring scripts more practical for real Cloud Engineering scenarios.
+
 ---
 
 # Real Cloud Engineer Use Case
