@@ -37,4 +37,5 @@ print(sys.version)
 print()
 
 print("===== SUBPROCESS MODULE =====")
-subprocess.run("dir", shell=True)
+subprocess.run(["cmd", "/c", "dir"])
+
