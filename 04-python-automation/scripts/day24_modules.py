@@ -37,4 +37,4 @@ print(sys.version)
 print()
 
 print("===== SUBPROCESS MODULE =====")
-subprocess.run(["pwd"])
+subprocess.run("dir", shell=True)
