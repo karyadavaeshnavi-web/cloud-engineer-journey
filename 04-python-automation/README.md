@@ -47,3 +47,27 @@ Python is used extensively by Cloud Engineers to automate infrastructure managem
 ## Real World Application
 
 Cloud monitoring systems use conditional statements to identify abnormal resource usage and generate alerts before services become unavailable.
+
+# Day 22 – Python Loops
+
+## Topics Covered
+
+- for Loop
+- while Loop
+- range()
+- break
+- continue
+- Nested Loops
+
+## Skills Learned
+
+- Automate repetitive tasks
+- Iterate through lists
+- Control iterations
+- Combine loops with conditions
+
+## Real World Application
+
+Loops allow Cloud Engineers to automate repetitive operations such as monitoring servers, checking virtual machines, deploying resources, and processing logs across hundreds or thousands of systems.
+
+
