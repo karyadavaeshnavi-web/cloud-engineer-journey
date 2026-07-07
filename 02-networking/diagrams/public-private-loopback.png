@@ -1,0 +1,28 @@
+PUBLIC IP
+
+Laptop
+   │
+Internet
+   │
+Google Server
+(Reachable Worldwide)
+
+
+PRIVATE IP
+
+Laptop
+   │
+Router
+   │
+Phone
+(Home Network Only)
+
+
+LOOPBACK
+
+Computer
+   │
+127.0.0.1
+   │
+Computer
+(Talks To Itself)
