@@ -17,7 +17,7 @@ with open("04-python-automation/reports/hello.txt", "r") as file:
 # Read server list
 print("\n===== SERVERS =====")
 
-with open("04-python-automation/reports/servers.txt", "r") as file:
+with open("04-python-automation/reports/servers.txt", "w") as file:
     for server in file:
         print(server.strip())
 
