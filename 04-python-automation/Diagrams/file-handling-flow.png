@@ -1,0 +1,21 @@
+Start
+  │
+  ▼
+Open File
+  │
+  ▼
+Choose Mode
+(r / w / a / x)
+  │
+  ▼
+Read or Write Data
+  │
+  ▼
+Save Changes
+  │
+  ▼
+Automatically Close File
+(using with open())
+  │
+  ▼
+End
