@@ -67,7 +67,10 @@ git fetch
 ## Real World Application
 
 Remote repositories allow Cloud Engineers to collaborate on Infrastructure as Code, automation scripts, Kubernetes deployments, CI/CD pipelines, and cloud configurations while maintaining a centralized project history.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 13bf6281ac90ce7e5368e4f8ff746f0a4077c7e3
 # Day 18 – Branching & Collaboration
 
 ## Topics Covered
@@ -99,6 +102,7 @@ git merge feature/readme-update
 
 Branching allows Cloud Engineers to safely develop Infrastructure as Code, Kubernetes deployments, CI/CD workflows, and automation scripts without affecting production until the work has been reviewed and approved.
 
+<<<<<<< HEAD
 # Day 19 – Git Best Practices
 
 ## Topics Covered
@@ -128,3 +132,5 @@ git log --oneline
 ## Real World Application
 
 Professional Git workflows improve collaboration, make troubleshooting easier, and help maintain infrastructure repositories used in Cloud Engineering and DevOps.
+=======
+>>>>>>> 13bf6281ac90ce7e5368e4f8ff746f0a4077c7e3

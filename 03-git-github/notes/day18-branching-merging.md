@@ -204,3 +204,7 @@ Cloud Engineers use feature branches when:
 - Improving monitoring scripts
 
 This ensures infrastructure changes are reviewed before deployment.
+# Reflection
+
+Today I learned how professional software teams collaborate using Git branches and Pull Requests. I understood why developers avoid working directly on the main branch and how feature branches provide a safe environment for developing and testing changes. I also learned that Pull Requests enable code review before changes are merged into the production branch, reducing the risk of introducing errors.
+
