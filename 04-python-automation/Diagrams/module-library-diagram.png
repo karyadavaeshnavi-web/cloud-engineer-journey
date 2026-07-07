@@ -1,0 +1,12 @@
+        Python Standard Library
+                  │
+      ┌───────────┼───────────┐
+      │           │           │
+     math        os      datetime
+      │           │           │
+ Mathematical  Operating     Date &
+ Functions      System       Time
+                  │
+             subprocess
+                  │
+          Executes Linux Commands
