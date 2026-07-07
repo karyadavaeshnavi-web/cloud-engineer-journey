@@ -92,3 +92,28 @@ Loops allow Cloud Engineers to automate repetitive operations such as monitoring
 ## Real World Application
 
 Cloud Engineers build reusable automation by placing monitoring, deployment, and health-check logic inside functions that can be executed repeatedly across multiple servers.
+# Day 24 – Modules & Libraries
+
+## Topics Covered
+
+- Modules
+- Libraries
+- import
+- math
+- random
+- datetime
+- os
+- sys
+- subprocess
+
+## Skills Learned
+
+- Import built-in modules
+- Work with Python libraries
+- Execute Linux commands
+- Access operating system information
+- Generate timestamps
+
+## Real World Application
+
+Cloud Engineers rely on Python modules to automate server administration, execute Linux commands, generate reports, and interact with cloud infrastructure.
