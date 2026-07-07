@@ -117,3 +117,26 @@ Cloud Engineers build reusable automation by placing monitoring, deployment, and
 ## Real World Application
 
 Cloud Engineers rely on Python modules to automate server administration, execute Linux commands, generate reports, and interact with cloud infrastructure.
+
+# Day 25 – File Handling
+
+## Topics Covered
+
+- open()
+- File Modes
+- Read
+- Write
+- Append
+- with open()
+
+## Skills Learned
+
+- Read files
+- Write reports
+- Append logs
+- Process text files
+- Store monitoring information
+
+## Real World Application
+
+Cloud Engineers use file handling to generate monitoring reports, log server activity, store deployment information, and preserve historical operational data for troubleshooting and auditing.
