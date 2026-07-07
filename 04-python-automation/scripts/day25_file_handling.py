@@ -18,7 +18,7 @@ with open("04-python-automation/reports/hello.txt", "r") as file:
 print("\n===== SERVERS =====")
 
 with open("04-python-automation/reports/servers.txt", "w") as file:
-    for server in file:
+    for server in servers:
         print(server.strip())
 
 # Create a monitoring report
