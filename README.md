@@ -6,11 +6,11 @@ Become a Cloud Engineer with strong foundations in Linux, Networking, Google Clo
 
 ## Roadmap
 
-* [x] Linux Foundations (In Progress)
-* [ ] Networking
-* [ ] Git & GitHub
-* [ ] Python
-* [ ] GCP
+* [x] Linux Foundations
+* [x] Networking
+* [x] Git & GitHub
+* [x] Python
+* [ ] GCP (In Progress)
 * [ ] Docker
 * [ ] Kubernetes
 * [ ] Terraform
