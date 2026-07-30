@@ -1,48 +1,95 @@
-# Cloud Engineer Journey
+# DevOps Engineer Journey
 
-## Goal
+This repository is where I document everything I learn while working towards becoming a DevOps Engineer.
 
-Become a Cloud Engineer with strong foundations in Linux, Networking, Google Cloud Platform, DevOps, and Site Reliability Engineering.
+I wanted to build more than a collection of projects. I wanted a place where I could keep track of my progress, organize my learning, and look back at how each concept connected to the next. Every module in this repository is part of a roadmap that I'm following step by step, starting with the fundamentals and gradually moving towards building complete DevOps solutions.
+
+You'll find notes, hands-on labs, architecture diagrams, projects, command references, and documentation that reflect what I've learned at each stage.
+
+---
 
 ## Roadmap
 
-* [x] Linux Foundations
-* [x] Networking
-* [x] Git & GitHub
-* [x] Python
-* [ ] GCP (In Progress)
-* [ ] Docker
-* [ ] Kubernetes
-* [ ] Terraform
-* [ ] CI/CD
-* [ ] Monitoring
-* [ ] SRE
+- ✅ Linux
+- ✅ Networking
+- ✅ Git & GitHub
+- ✅ Python Automation
+- 🚧 Google Cloud Platform
+- ⏳ Docker
+- ⏳ Kubernetes
+- ⏳ Helm
+- ⏳ Terraform
+- ⏳ Ansible
+- ⏳ GitHub Actions
+- ⏳ CI/CD
+- ⏳ Monitoring & Observability
+- ⏳ DevSecOps
+- ⏳ Capstone Projects
+
+---
 
 ## Repository Structure
 
-This repository contains:
+```
+topic/
+├── notes/
+├── labs/
+├── commands/
+├── diagrams/
+├── projects/
+├── screenshots/
+└── README.md
+```
 
-* Notes
-* Labs
-* Diagrams
-* Interview Preparation
-* Commands Reference
-* Project Documentation
+---
 
-## Progress
+## What You'll Find Here
 
-### Linux
+Each module is organized to capture both the concepts and the practical work behind them.
 
-* Linux Introduction
-* Linux Architecture
-* Filesystem Hierarchy
+- Notes
+- Hands-on Labs
+- Commands & References
+- Architecture Diagrams
+- Projects
+- Screenshots
+- Documentation
+- Troubleshooting
 
-## Upcoming Projects
+---
 
-* Linux Monitoring Dashboard
-* Terraform GCP Infrastructure
-* Dockerized Python API
-* GKE Production Deployment
-* CI/CD Pipeline
-* Observability Stack
-* Production Cloud Platform
+## Technologies Covered
+
+### Foundations
+- Linux
+- Networking
+- Git & GitHub
+- Python
+
+### Cloud
+- Google Cloud Platform
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
+
+### Infrastructure
+- Terraform
+- Ansible
+
+### Automation
+- GitHub Actions
+- CI/CD
+
+### Operations
+- Monitoring & Observability
+- DevSecOps
+
+---
+
+## Why This Repository
+
+I'm building this repository the same way I approach learning—understand the fundamentals, apply them through hands-on work, document what I learn, and then move on to the next step.
+
+My aim is that, by the end of this roadmap, this repository reflects not only the projects I've built, but also the process I followed to build them.
